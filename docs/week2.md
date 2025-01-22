@@ -48,12 +48,6 @@ conda create -n myenv python=3.10
 conda activate myenv
 ```
 
-Install packages using pip:
-
-```bash
-pip install streamlit openai anthropic chromadb flask
-```
-
 ----
 
 4. Installing a Text Editor
@@ -98,6 +92,13 @@ cd test-project
 git init
 ```
 
+
+Install packages using pip:
+
+```bash
+pip install streamlit openai anthropic chromadb flask
+```
+
 Test Python environment with a simple script:
 
 ```python
@@ -119,7 +120,7 @@ python test.py
 
 ----
 
-# Clone the repository
+# Clone the Week 2 repository 
 
 ```bash
 git clonegit@github.com:DESIGNTK-522/Week-2.git
@@ -156,7 +157,6 @@ git push origin main
 ## Check the repository on GitHub
 
 Go to the repository on GitHub and check that the files are there.
-
 
 ----
 
